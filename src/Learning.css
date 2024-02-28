@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Croissant+One&family=Josefin+Sans:wght@600&family=Phudu:wght@500&family=Poppins&family=Roboto+Condensed&family=Roboto:wght@900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Croissant+One&family=Qwitcher+Grypen&family=Roboto:wght@400;500;700&family=Skranji&display=swap');
+
+    .close-button {
+      width: 60px;
+      height: 60px;
+      color: rgb(175, 174, 174);
+      font-size: 30px;
+      text-align: center;
+      line-height: 30px;
+      cursor: pointer;
+      margin-top: 20px;
+      margin-left: 15px;
+    }
+
+    .close-button:hover {
+      color: rgb(200, 197, 197);
+    }
+    .close-button{
+      font-size: 50px !important;
+      border: solid;
+      border-radius: 30px;
+      padding-left: 5px;
+      padding-top: 5px;
+      padding-bottom: 11px;
+      padding-right: 7px;
+    }
+    #header {
+      font-family: 'Black Ops One', cursive;
+      font-family: 'Croissant One', cursive;
+      margin-bottom: 10px;
+    }
+    #login-back{
+      text-decoration: none;
+      color: gray;
+    }
+    .language-selection {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 10%;
+    }
+
+    .cards-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .card {
+      margin: 5px;  
+      border: solid;
+      border-width: thin;
+      border-radius: 25px;
+      border-color: rgb(220, 215, 215) !important;
+    }
+
+    .card-img-top {
+      width: 150px !important;
+      height: 150px !important;
+      margin-top: 10px;
+      
+    }
+    .card-title{
+      font-family:'Courier New', Courier, monospace;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-size: 20px;
+      color: black;
+      margin-top: -5px;
+      text-decoration:white;
+    }
+    .card-text{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-size: 15px;
+      margin-top: -10px;
+      margin-bottom: 30px !important;
+      color: black;
+    }
+    .card-link{
+      text-decoration: none !important;
+    }
+    #image1{
+      width: 250px !important;
+      height: 150px !important;
+    }
